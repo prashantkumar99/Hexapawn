@@ -1,0 +1,4 @@
+# [conda]
+colorama=0.4.4
+python=3.8.5
+jupyterlab=3.0.8 # Required only if running hexapawn in Google Colab or Jupyter.
