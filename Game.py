@@ -27,6 +27,7 @@ class Game:
         return ""
 
     def move(self):
+        self.setError("")
         moved = False
         while not moved:
             try:
